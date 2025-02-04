@@ -108,4 +108,5 @@ def main():
             case "_":
                 print("Invalid option. Please try again. ")
             
-main()
+if __name__ == "__main__":
+    main()
